@@ -1,0 +1,6 @@
+{
+  "name": "College Schedule & iPhone 17 Widgets",
+  "description": "Minimalist dark mode iPhone 17 widget studio and real-time schedule for URS (University of Rizal System - Morong Rizal Campus) BS ECE (Electronics Communication Engineering) with Google Calendar & Apple Calendar automatic sync, live countdowns, deadline notifications, syllabus syncing, Mon-Fri timetable visualization, and degree completion tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
